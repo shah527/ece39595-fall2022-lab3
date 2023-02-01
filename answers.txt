@@ -1,1 +1,6 @@
-
+(a) Pros:
+    1. Agile development allows for extensive collaboration as the employees and clients directly stay in contact to exchange feedback, ideas etc.
+    2. Agile development results in an improved outcome as in the cycles, the feedback received helps in identifying the flaws and improving upon them
+    Cons:
+    1. Since there are multiple goals and tasks that need to be focused on in Agile development, specific goals often fall behind or not get proper care
+    2. There is a lack of documentation in the Agile methodology, which could lead to bigger issues in the long run
