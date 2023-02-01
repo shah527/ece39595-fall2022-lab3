@@ -4,3 +4,4 @@
     Cons:
     1. Since there are multiple goals and tasks that need to be focused on in Agile development, specific goals often fall behind or not get proper care
     2. There is a lack of documentation in the Agile methodology, which could lead to bigger issues in the long run
+(b) The Scrum Master leads the team through Agile project management, and is responsible for the team members and guides them to success. A Product Owner, on the other hand, plans the sprints and is responsible for the project's success.
